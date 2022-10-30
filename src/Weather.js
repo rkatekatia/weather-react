@@ -17,6 +17,16 @@ export default function Weather() {
             <Description />
           </div>
         </div>
+        <p>
+          <a
+            href="https://github.com/rkatekatia/weather-react"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Open-source code{' '}
+          </a>
+          by Catherine Kariakina
+        </p>
       </div>
     </div>
   )
